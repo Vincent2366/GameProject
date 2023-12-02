@@ -3,7 +3,15 @@ package com.self.learn;
 import java.io.File;
 import java.io.IOException;
 import javax.sound.sampled.*;
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+Test note
+=======
+
+>>>>>>> ceca44d (GameProject/oop)
+>>>>>>> 4aa0153 (added bin again)
 public class Main {
     public static void main(String[] args) {
         try {
