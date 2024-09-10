@@ -1,6 +1,6 @@
 package com.self.learn;
 
-import javax.swing.JFrame;asd
+import javax.swing.JFrame;
 
 public class Frame extends JFrame {
 	private static final long serialVersionUID = 1L;
