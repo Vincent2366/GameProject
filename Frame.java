@@ -1,6 +1,6 @@
 package com.self.learn;
 
-import javax.swing.JFrame;ad
+import javax.swing.JFrame;
 import javax.swing.JFrame;
 
 public class Frame extends JFrame {
