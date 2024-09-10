@@ -2,7 +2,7 @@ package com.self.learn;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.*;
+
 // Custom Tooltip Panel to display game instructions
 class CustomToolTip extends JDialog {
     private JTextArea textArea;
