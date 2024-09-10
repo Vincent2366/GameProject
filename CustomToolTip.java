@@ -15,7 +15,7 @@ class CustomToolTip extends JDialog {
         setLocationRelativeTo(parent);
 
         textArea = new JTextArea();
-        textArea.setEditable(false);
+        textArea.setEditable(false); asd
         textArea.setLineWrap(true);
         textArea.setWrapStyleWord(true);
         textArea.setFont(new Font("Arial", Font.PLAIN, 14));
@@ -24,6 +24,9 @@ class CustomToolTip extends JDialog {
         add(scrollPane, BorderLayout.CENTER);
     }
 
+    public void setText(String text) {
+        textArea.setText(text);
+    }
     public void setText(String text) {
         textArea.setText(text);
     }
