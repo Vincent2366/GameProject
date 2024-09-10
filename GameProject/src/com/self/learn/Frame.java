@@ -2,10 +2,6 @@ package com.self.learn;
 
 import javax.swing.JFrame;
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ceca44d (GameProject/oop)
 public class Frame extends JFrame {
 	private static final long serialVersionUID = 1L;
 

@@ -27,5 +27,8 @@ class CustomToolTip extends JDialog {
     public void setText(String text) {
         textArea.setText(text);
     }
+    public void setText(String text) {
+        textArea.setText(text);
+    }
 }
 
