@@ -3,11 +3,7 @@ package com.self.learn;
 import java.io.File;
 import java.io.IOException;
 import javax.sound.sampled.*;
-<<<<<<< HEAD
-Test note
-=======
 
->>>>>>> ceca44d (GameProject/oop)
 public class Main {
     public static void main(String[] args) {
         try {
