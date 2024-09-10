@@ -15,7 +15,7 @@ class CustomToolTip extends JDialog {
         setLocationRelativeTo(parent);
 
         textArea = new JTextArea();
-        textArea.setEditable(false);
+        textArea.setEditable(false); asd
         textArea.setLineWrap(true);
         textArea.setWrapStyleWord(true);
         textArea.setFont(new Font("Arial", Font.PLAIN, 14));
